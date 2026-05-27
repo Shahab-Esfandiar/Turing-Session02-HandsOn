@@ -1,7 +1,7 @@
 # 🧠 The Amnesia Test (Vector Memory)
 **Advanced Retrieval-Augmented Generation (RAG) Engine with Pinecone**
 
-This project is an educational and high-performance AI engineering tool designed to demonstrate and overcome the stateless nature of Large Language Models (LLMs). It bridges the gap between isolated prompts and continuous conversations by implementing a sophisticated long-term vector memory system using Pinecone.
+A tool designed to demonstrate and overcome the stateless nature of Large Language Models (LLMs). It bridges the gap between isolated prompts and continuous conversations by implementing a sophisticated long-term vector memory system using Pinecone.
 
 ---
 
